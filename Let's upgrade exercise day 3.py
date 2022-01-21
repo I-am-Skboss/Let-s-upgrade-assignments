@@ -1,0 +1,8 @@
+Name = input("Enter your name = ")
+Age = input("Enter your age = ")
+Age = int(Age)
+Gender = input("Please input your gender = ")
+Company = input("Write your company's name = ")
+Salary = input("Write your in-hand without deductions = ")
+List = (Name,Age,Gender,Company,Salary)
+print(List)
